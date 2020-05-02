@@ -2,6 +2,8 @@
 
 Arduino robot car with obstacle avoidance.
 
+https://www.youtube.com/watch?v=7Vlomxe3YwU
+
 ## Hardware / Materiel
 
 * Robot Smart Car châssis Kits B073169GBF
